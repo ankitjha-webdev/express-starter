@@ -1,7 +1,8 @@
 # Express Starter Kit
 
 > A boilerplate for building web applications with [Express](http://expressjs.com/). This template will be updated as the project matures and my learnings about various industry practices.
-![Express Starter](https://github.com/ankitjha-webdev/express-starter/assets/68455254/ee484795-d5ba-462e-bad8-f1fe5288cb4c)
+![Express Starter](https://github.com/ankitjha-webdev/express-starter/assets/68455254/4aed342a-77da-4ba8-b597-99a515f7329d)
+
 
 ## Features
 
